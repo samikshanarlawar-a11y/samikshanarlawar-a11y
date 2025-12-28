@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikshanarlawar-a11y&show_icons=true&locale=en" alt="samikshanarlawar-a11y" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshanarlawar-a11y&" alt="samikshanarlawar-a11y" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshanarlawar-a11y&"></p>
